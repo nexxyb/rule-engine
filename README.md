@@ -31,8 +31,8 @@ The focus is on clean architecture, extensibility, and correctness.
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
-   cd <repo-name>
+   git clone https://github.com/nexxyb/rule-engine.git
+   cd rule-engine
    ```
 
 2. **Create and activate virtual environment**
